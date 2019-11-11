@@ -12,9 +12,10 @@
         <item>Ákosfalva</item>
     </string-array>
     <string-array name="departments_array">
-        <item>Mathematics</item>
-        <item>Computer Science</item>
-        <item>Mathematics and Computer Science</item>
+        <item>Informatika</item>
+        <item>Számítástehnika</item>
+        <item>Tájépítész</item>
+        <item>Fordító</item>
 
     </string-array>
 </resources>
